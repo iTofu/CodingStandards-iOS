@@ -6,7 +6,7 @@
 
 该文档中的标准涵盖了 iOS，macOS，watchOS 和 tvOS 开发工作。
 
-👉 **[Swift 编码标准](Swift.md)**
+**Swift 开发前往 👉 [Swift 编码标准](Swift.md)**
 
 ---
 
